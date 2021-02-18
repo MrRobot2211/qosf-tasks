@@ -31,7 +31,7 @@ arrow-cpp-proc=3.0.0=cuda
 ase=3.17.0=pypi_0
 asn1crypto=1.4.0=py_0
 astor=0.8.1=py37h06a4308_0
-astroid=2.4.2=py37_0
+astroid=2.5=py37h06a4308_1
 astropy=4.2=py37h27cfd23_0
 astunparse=1.6.3=pypi_0
 async-timeout=3.0.1=py37h06a4308_0
@@ -73,8 +73,8 @@ boost=1.72.0=py37h48f8a5e_1
 boost-cpp=1.72.0=h8e57a91_0
 borutashap=1.0.14=pypi_0
 boto=2.49.0=py37_0
-boto3=1.17.7=pyhd3eb1b0_0
-botocore=1.20.7=pyhd3eb1b0_1
+boto3=1.17.8=pyhd3eb1b0_0
+botocore=1.20.9=pyhd3eb1b0_1
 bottleneck=1.3.2=py37heb32a55_1
 bravado=10.6.2=pypi_0
 bravado-core=5.17.0=pyh9f0ad1d_0
@@ -113,7 +113,7 @@ conda-build=3.18.9=py37_3
 conda-package-handling=1.7.2=py37h03888b9_0
 configparser=4.0.2=pypi_0
 contextlib2=0.6.0.post1=py_0
-convertdate=2.3.0=pyhd8ed1ab_0
+convertdate=2.3.1=pyhd8ed1ab_0
 coolgpus=0.23=pypi_0
 coverage=4.5.4=pypi_0
 crc32c=1.7=pypi_0
@@ -174,7 +174,7 @@ expat=2.2.10=he6710b0_2
 faiss-proc=1.0.0=cuda
 fastai=1.0.59=1
 fastai2=0.0.4=pypi_0
-fastavro=1.3.1=py37h27cfd23_0
+fastavro=1.3.2=py37h27cfd23_0
 fastcache=1.1.0=py37h7b6447c_0
 fastcore=0.1.8=pypi_0
 fastparquet=0.5.0=py37h6323ea4_1
@@ -223,10 +223,10 @@ gmp=6.2.1=h2531618_2
 gmpy2=2.0.8=py37h10f8cd9_2
 gnutls=3.6.5=h71b1129_1002
 google-api-core=1.22.2=py37_0
-google-auth=1.24.0=pyhd3eb1b0_0
+google-auth=1.27.0=pyhd3eb1b0_0
 google-auth-oauthlib=0.4.2=pypi_0
-google-cloud-core=1.5.0=pyhd3eb1b0_0
-google-cloud-storage=1.35.0=pyhd3eb1b0_0
+google-cloud-core=1.6.0=pyhd3eb1b0_0
+google-cloud-storage=1.36.0=pyhd3eb1b0_0
 google-crc32c=1.1.2=py37h27cfd23_0
 google-pasta=0.2.0=py_0
 google-resumable-media=1.2.0=pyhd3eb1b0_1
@@ -327,7 +327,7 @@ krb5=1.17.1=h173b8e3_0
 lame=3.100=h7b6447c_0
 lark-parser=0.7.1=pypi_0
 latexcodec=2.0.1=pyh9f0ad1d_0
-lazy-object-proxy=1.4.3=py37h27cfd23_2
+lazy-object-proxy=1.5.2=py37h27cfd23_0
 lcms2=2.11=h396b838_0
 ld_impl_linux-64=2.33.1=h53a641e_7
 lenskit=0.6.1=py37h1aa3f02_0
@@ -354,7 +354,7 @@ libffi=3.2.1=hf484d3e_1007
 libflac=1.3.3=h9c3ff4c_1
 libgcc=7.2.0=h69d50b8_2
 libgcc-ng=9.3.0=h2828fa1_18
-libgcrypt=1.9.1=h27cfd23_0
+libgcrypt=1.9.2=h27cfd23_0
 libgdal=3.0.4=h9e6407a_4
 libgfortran-ng=7.3.0=hdf63c60_0
 libgomp=9.3.0=h2828fa1_18
@@ -404,7 +404,7 @@ libxml2=2.9.10=hee79883_0
 libxslt=1.1.33=h31b3aaa_0
 lifelines=0.23.1=pypi_0
 lightfm=1.15=py37h3010b51_1000
-lightgbm=2.3.1=pypi_0
+lightgbm=3.0.0.99=pypi_0
 lime=0.1.1.36=py_0
 llvmlite=0.34.0=py37h269e1b5_4
 locket=0.2.1=py37h06a4308_1
@@ -826,7 +826,7 @@ subprocess32=3.5.4=pypi_0
 swagger-spec-validator=2.7.3=pyh9f0ad1d_0
 swifter=0.294=py37_0
 sympy=1.7.1=py37h06a4308_0
-tabulate=0.8.7=py37_0
+tabulate=0.8.7=py37h06a4308_0
 tbb=2020.3=hfd86e86_0
 tblib=1.7.0=py_0
 tensorboard=2.4.0=pypi_0
@@ -898,7 +898,7 @@ websockets=8.1=py37h5e8e339_3
 werkzeug=1.0.1=pyhd3eb1b0_0
 wheel=0.36.2=pyhd3eb1b0_0
 widgetsnbextension=3.5.1=py37_0
-wrapt=1.11.2=py37h7b6447c_0
+wrapt=1.12.1=py37h7b6447c_1
 wurlitzer=2.0.1=py37_0
 x264=1!157.20191217=h7b6447c_0
 xarray=0.16.2=pyhd3eb1b0_0

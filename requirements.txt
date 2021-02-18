@@ -404,7 +404,7 @@ libxml2=2.9.10=hee79883_0
 libxslt=1.1.33=h31b3aaa_0
 lifelines=0.23.1=pypi_0
 lightfm=1.15=py37h3010b51_1000
-lightgbm=3.0.0.99=pypi_0
+lightgbm=2.3.1=pypi_0
 lime=0.1.1.36=py_0
 llvmlite=0.34.0=py37h269e1b5_4
 locket=0.2.1=py37h06a4308_1

@@ -9,4 +9,4 @@ For the notebook to work you should first install the libraries in requirements.
 
 
 
-I have reproduced only the functions used in the solutions in Qiskit on Task1-Quiskit.ipynb, and checked they work as expected.
+I have reproduced similar functions to the ones used in the solutions in Qiskit on Task1-Quiskit.ipynb, and checked they work as expected.

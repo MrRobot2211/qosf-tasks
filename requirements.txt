@@ -482,7 +482,7 @@ openh264=2.1.0=hd408876_0
 openjdk=8.0.152=h7b6447c_3
 openjpeg=2.3.1=hf7af979_3
 openpyxl=3.0.6=pyhd3eb1b0_0
-openssl=1.1.1i=h27cfd23_0
+openssl=1.1.1j=h27cfd23_0
 opt-einsum=3.3.0=pypi_0
 optuna=2.2.0=py_0
 owlready2=0.21=py37h516909a_0
